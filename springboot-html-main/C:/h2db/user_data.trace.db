@@ -1,0 +1,27 @@
+2023-09-11 15:44:11 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_DATA" not found; SQL statement:
+select * from user_data [42102-200]
+2023-09-11 15:44:12 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_DATA" not found; SQL statement:
+select * from user_data [42102-200]
+2023-09-11 15:44:12 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_DATA" not found; SQL statement:
+select * from user_data [42102-200]
+2023-09-11 15:44:13 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_DATA" not found; SQL statement:
+select * from user_data [42102-200]
+2023-09-11 15:44:13 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_DATA" not found; SQL statement:
+select * from user_data [42102-200]
+2023-09-11 15:44:13 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_DATA" not found; SQL statement:
+select * from user_data [42102-200]
+2023-09-11 15:44:13 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_DATA" not found; SQL statement:
+select * from user_data [42102-200]
+2023-09-11 15:44:29 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_DATA" not found; SQL statement:
+select * from user_data [42102-200]
+2023-09-11 15:44:51 jdbc[15]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER_DATA" not found; SQL statement:
+select * from user_data [42102-200]
